@@ -1,13 +1,15 @@
 {
-  "token": "",
+  "token": "OTUzMTUyNTg0Nzk1OTU1MjIx.YjAa0w.vQjzISpfsV11t9ISvTW0SwV5QW8",
   "prefix": ">",
   "activity_type": "watching",
-  "activity_name": "services",
+  "activity_name": "Uptime",
   "disable_help": false,
   "hide_ips": true,
-  "notification_channel": 1234,
+  "notification_channel": 952875688510226442,
   "retries": 0,
-  "role_to_mention": 1234,
+  "role_to_mention": 952875658479018034,
   "secs_between_ping": 30,
   "timeout": 5
 }
+
+
