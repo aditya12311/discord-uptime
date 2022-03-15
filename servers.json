@@ -1,27 +1,17 @@
 [
     {
-      "name": "Google",
+      "name": "Panel",
       "type": "http",
-      "address": "google.com"
+      "address": "https://gp.microhosting.ml"
     },
     {
-      "name": "Cloudflare",
+      "name": "Node1",
       "type": "ping",
-      "address": "1.1.1.1"
+      "address": "20.207.200.215"
     },
     {
-      "name": "Gmail SMTP",
-      "type": "tcp",
-      "address": "smtp.gmail.com:465"
-    },
-    {
-      "name": "Invalid ping",
+      "name": "Node2",
       "type": "ping",
-      "address": "10.10.10.10"
-    },
-    {
-      "name": "Invalid http",
-      "type": "http",
-      "address": "ialsodont.exist"
+      "address": "20.219.38.69"
     }
 ]
